@@ -9,6 +9,8 @@
     android:paddingRight="16dp"
     android:paddingTop="16dp"
     android:paddingBottom="16dp"
+    android:orientation="vertical"
+    android:background="@drawable/newbackground"
     tools:context=".MainActivity">
 
     <RelativeLayout
